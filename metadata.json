@@ -1,0 +1,5 @@
+{
+  "name": "Indian News Analyzer",
+  "description": "An AI-powered tool to analyze news articles and determine their veracity, providing explanations in various Indian regional languages.",
+  "requestFramePermissions": []
+}
